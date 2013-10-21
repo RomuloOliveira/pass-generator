@@ -5,13 +5,15 @@ A "strong" password generator written in Python
 
 Generates ten 8-digit passwords that aren't a date in `ddmmyyyy` format
 
-**Example**  
+### Example  
+```
+python generator.py
+```
 
-`python generator.py`
+*Output*:  
 
-Output:  
-
-`94120753  
+```
+94120753  
 18702563  
 87304592  
 41927380  
@@ -20,4 +22,5 @@ Output:
 58219630  
 93412578  
 72340851  
-29143086`
+29143086
+```
